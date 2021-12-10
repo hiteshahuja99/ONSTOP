@@ -1,0 +1,44 @@
+/* body {margin:0;} */
+.navigation{
+  width: 100%;
+  top: 0;
+  background-color: #fdb816;
+  position: fixed;
+  height: 60px;
+  z-index: 1;
+
+
+}
+.link{
+ 
+  color: white;
+  text-decoration: none;
+  padding: 1%;
+  position: relative;
+  
+  
+}
+.fl{
+
+  float: left !important;
+}
+.fr{
+  float: right !important;
+}
+
+.activate{
+  background-color: #0c8bc2 !important;
+}
+
+.link:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.link:visited{
+  color: white;
+  text-decoration: none;
+}
+
+
+
